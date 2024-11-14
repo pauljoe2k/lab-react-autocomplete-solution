@@ -25,7 +25,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Search</h1>
+      <h1>Search for places</h1>
 
       <div>
         <div>
